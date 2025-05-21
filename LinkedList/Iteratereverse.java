@@ -1,3 +1,6 @@
+// Write a Java program to iterate a linked list in reverse order (using
+// objlist.descendingIterator())
+
 package linkedlist1;
 import java.util.Iterator;
 import java.util.LinkedList;
