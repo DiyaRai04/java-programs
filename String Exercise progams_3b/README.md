@@ -1,7 +1,7 @@
 ### 📝 Exercise - String Exercise progams_3b
 
 
-- [String Exercise progams_3b captailize ](https://github.com/DiyaRai04/Java-programs/blob/main/StringExerciseprogams_3b/captailize.png)
+- [String Exercise progams_3b captailize ](https://github.com/DiyaRai04/Java-programs/blob/main/String%20Exercise%20progams_3b/captailize.png)
 - [String Exercise progams_3b checkpalin](https://github.com/DiyaRai04/Java-programs/blob/main/StringExerciseprogams_3b/checkpalin.png)
 - [String Exercise progams_3b countwords](https://github.com/DiyaRai04/Java-programs/blob/main/StringExerciseprogams_3b/countwords.png)
 - [String Exercise progams_3b isnumeric](https://github.com/DiyaRai04/Java-programs/blob/main/StringExerciseprogams_3b/isnumeric.png)
