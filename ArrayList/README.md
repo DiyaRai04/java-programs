@@ -1,8 +1,8 @@
-### 📝 Exercise - LinkedList
+### 📝 Exercise - ArrayList
 
-- [LinkedList delete_nth_element](https://github.com/DiyaRai04/Java-programs/blob/main/ArrayList/deletenthelement.png)
-- [LinkedList extract](https://github.com/DiyaRai04/Java-programs/blob/main/ArrayList/extractelement.png)
-- [LinkedList listinterface](https://github.com/DiyaRai04/Java-programs/blob/main/ArrayList/listinterface.png)
-- [LinkedList remove_second_element](https://github.com/DiyaRai04/Java-programs/blob/main/ArrayList/removesecondelement.png)
-- [LinkedList searchred](https://github.com/DiyaRai04/Java-programs/blob/main/ArrayList/searchred.png)
-- [LinkedList sortcolor](https://github.com/DiyaRai04/Java-programs/blob/main/ArrayList/sortcolor.png)
+- [ArrayList delete_nth_element](https://github.com/DiyaRai04/Java-programs/blob/main/ArrayList/deletenthelement.png)
+- [ArrayList extract](https://github.com/DiyaRai04/Java-programs/blob/main/ArrayList/extractelement.png)
+- [ArrayList listinterface](https://github.com/DiyaRai04/Java-programs/blob/main/ArrayList/listinterface.png)
+- [ArrayList remove_second_element](https://github.com/DiyaRai04/Java-programs/blob/main/ArrayList/removesecondelement.png)
+- [ArrayList searchred](https://github.com/DiyaRai04/Java-programs/blob/main/ArrayList/searchred.png)
+- [ArrayList sortcolor](https://github.com/DiyaRai04/Java-programs/blob/main/ArrayList/sortcolor.png)
